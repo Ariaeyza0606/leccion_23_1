@@ -3,7 +3,7 @@ Definir un constructor de una entidad Persona que tenga como propiedades: nombre
 
 ## Resultado:
 
-![alt] (http://4.1m.yt/U2z0tJr.png)
+![alt](http://4.1m.yt/U2z0tJr.png)
 
 ![alt](http://4.1m.yt/UBs2Gh.png)
 
